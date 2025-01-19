@@ -92,7 +92,7 @@ const Card = ({loadingData, showData, weather, forecast}) => {
                     </div>
 
                 ):(
-                    <h2 className="text-light">Sin datos para mostrar.</h2>
+                    <h3 className="text-light">Sin datos para mostrar.</h3>
                 )
             }
 
