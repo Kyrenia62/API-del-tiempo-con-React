@@ -23,7 +23,7 @@ ESTRUCTURA DEL PROYECTO:
 
 INSTALACIÓN Y EJECUCIÓN:
 1. Clonar el repositorio:
-		git clone https://tu-repositorio.git
+		git clone [https://tu-repositorio.git](https://github.com/Kyrenia62/API-del-tiempo-con-React/tree/main)
 	Reemplaza tu-repositorio.git con la URL de tu repositorio.
 
 2. Instalar dependencias:
